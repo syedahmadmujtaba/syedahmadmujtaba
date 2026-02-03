@@ -29,10 +29,21 @@
 **Mobile**  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  
 **Tools**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions)
 
 ---
-
+### Projects
+- **Naukri Guru:** AI Recruitment platform that streamlines the hiring process for software developers.
+- **AI Voice Assistant:** A bilingual AI voice assistant that can talk in Urdu and English realtime. 
+- **Code Smell Detector:** Analyzes the typescript code to detect code smells and generates pdf report.
+- **CI/CD Pipeline:** CI/CD pipeline to generate docker image and run it on AWS through Github Actions.
+- **Point Of Sale:** A complete point of sale system for a small to medium business.
+- **Complaint Management Sytem:** A system to handle and streamline the complaint process of an organization.
+- **Ledgerly:** A fully responsive, real-time financial ledger that tracks actual cash flow alongside future debts and receivables with support for partial payments.
+- **Convertly:** Web Application for converting images into different formats.
+- **Sudoku Solver:** CLI based Application for solving sudoku using backtracking algorithm.
+- **Hospital System:** CLI based Application  for managing hospital operations using Custom Data Structures in C++.
+---
 ### 📫 Connect With Me
 
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amujtaba527)
