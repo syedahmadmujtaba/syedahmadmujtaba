@@ -54,7 +54,7 @@
 ---
 ### 📫 Connect With Me
 
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amujtaba527)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedahmadmujtaba)
 - **Portfolio:** [Ahmad Mujtaba's Portfolio](https://www.ahmadmujtaba.online/)
 - **Email:** `amujtaba527@gmail.com` (Click to [send me an email](mailto:amujtaba527@gmail.com))
 
