@@ -33,19 +33,19 @@
 
 ---
 ### Projects
-- **Naukri Guru: [Live Demo](https://naukri-guru-prototype.vercel.app/)** AI Recruitment platform that streamlines the hiring process for software developers.
-- **AI Voice Assistant: [Live Demo](https://naukri-guru-voice-agent.vercel.app/)** A bilingual AI voice assistant that can talk in Urdu and English realtime. 
-- **Code Smell Detector: [Live Demo](typescript-anti-patterns.vercel.app)** Analyzes the typescript code to detect code smells and generates pdf report.
+- **Naukri Guru: [Live Demo](http://naukriguru.ahmadmujtaba.online/)** AI Recruitment platform that streamlines the hiring process for software developers.
+- **AI Voice Assistant: [Live Demo](http://voiceagent.ahmadmujtaba.online/)** A bilingual AI voice assistant that can talk in Urdu and English realtime. 
+- **Code Smell Detector: [Live Demo](https://antipatterns.ahmadmujtaba.online/)** Analyzes the typescript code to detect code smells and generates pdf report.
 - **CI/CD Pipeline: [Repo](https://github.com/syedahmadmujtaba/devops-ci-cd-pipeline)** CI/CD pipeline to generate docker image and run it on AWS through Github Actions.
-- **Point Of Sale: [Live Demo](https://bike-auto-pos.vercel.app/)** A complete point of sale system for a small to medium business.
-- **Complaint Management Sytem: [Live Demo](https://complaint-manage.vercel.app/)** A system to handle and streamline the complaint process of an organization.
-- **Event Management System: [Live Demo](https://eventsmanagementsystem.vercel.app/)** Web Application to generate and scan tickets for an event and managing the events.
+- **Point Of Sale: [Live Demo](https://pos.ahmadmujtaba.online/)** A complete point of sale system for a small to medium business.
+- **Complaint Management Sytem: [Live Demo](https://cms.ahmadmujtaba.online/)** A system to handle and streamline the complaint process of an organization.
+- **Event Management System: [Live Demo](https://ems.ahmadmujtaba.online/)** Web Application to generate and scan tickets for an event and managing the events.
 - **Gym Mangement Sytem: [Repo](https://github.com/syedahmadmujtaba/gym-management-system)** Web App made in MERN Stack to manage gym functionalities.
-- **Ledgerly: [Live Demo](https://ledgerly-01.vercel.app/)** A fully responsive, real-time financial ledger that tracks actual cash flow alongside future debts and receivables with support for partial payments.
-- **Convertly: [Live Demo](https://convertlyio.vercel.app/)** Web Application for converting images into different formats.
+- **Ledgerly: [Live Demo](https://ledgerly.ahmadmujtaba.online/)** A fully responsive, real-time financial ledger that tracks actual cash flow alongside future debts and receivables with support for partial payments.
+- **Convertly: [Live Demo](https://convertly.ahmadmujtaba.online/)** Web Application for converting images into different formats.
 - **Python Data Visualization: [Live Demo](https://python-data-visualizing.streamlit.app/)** Dashboard to visualize dataset using python and streamlit.
 - **Chat App: [Repo](https://github.com/syedahmadmujtaba/chat_app)** Cross platform mobile application made in flutter.
-- **E-commerce Website: [Live Demo](https://nextjs-ecomm.vercel.app/)** An E-commerce Application made in Next.js.
+- **E-commerce Website: [Live Demo](https://ecommerce.ahmadmujtaba.online/)** An E-commerce Application made in Next.js.
 - **Travel App Website: [Live Demo](https://traveling-app-site.vercel.app/)** Responsive Website made in Next.js.
 - **Sundown Frontend: [Live Demo](https://frontend-sundown.vercel.app/)** Website made using html, css, and javascript.
 - **Sudoku Solver: [Repo](https://github.com/syedahmadmujtaba/Sudoku-Solver)** CLI based Application for solving sudoku using backtracking algorithm.
